@@ -82,6 +82,12 @@ h1 {
   width: 150px;
 }
 
+.video {
+  display: flex;
+  justify-content: center; /* Center horizontally */
+  align-items: center;
+}
+
 .btn:hover {
   background-color: #ffd700;
   transform: scale(1.05);
